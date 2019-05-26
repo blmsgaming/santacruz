@@ -3,14 +3,16 @@ import java.util.List;
 public class Question {
     private String question;
     private String timeLimit;
+    private String imgURL;
     private List<String> answerChoices;
     private List<Integer> correctChoices;
 
-    public Question(String question, List<String> answerChoices,String timeLimit, List<Integer> correctChoices){
+    public Question(String question, List<String> answerChoices,String timeLimit, List<Integer> correctChoices, String imgURL){
         this.question = question;
         this.answerChoices = answerChoices;
         this.timeLimit = timeLimit;
         this.correctChoices=correctChoices;
+        this.imgURL = imgURL;
     }
 
     public String getQuestion() {
@@ -43,5 +45,13 @@ public class Question {
 
     public void setCorrectChoices(List<Integer> correctChoices) {
         this.correctChoices = correctChoices;
+    }
+
+    public String getImgURL() {
+        return imgURL;
+    }
+
+    public void setImgURL(String imgURL) {
+        this.imgURL = imgURL;
     }
 }

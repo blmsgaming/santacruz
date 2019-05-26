@@ -1,0 +1,189 @@
+{
+  "gameTitle": "Multiplication Multi-Digit by Single-Digit (MATH)",
+  "description": "#NumbersandOperations #Math #Mathematics #Multiply a #wholenumber of up to four digits by a one-digit whole number, and multiply two #two-digit numbers, using strategies based on place value and the properties of operations.",
+  "titleImg": "https://images-cdn.kahoot.it/9d600bad-f9ef-420b-8603-5d23de6fa2cb",
+  "questionSet": [
+    {
+      "question": "Multiply.",
+      "timeLimit": "60 sec",
+      "imgURL": "https://images-cdn.kahoot.it/23a87e91-7df6-4a0c-8942-3856e7d4004a",
+      "answerChoices": [
+        "42,492",
+        "43,701",
+        "43,205",
+        "13,148"
+      ],
+      "correctChoices": [
+        2
+      ]
+    },
+    {
+      "question": "Al cut 45 pieces of wood. Each piece is 15 in long. What is the total length of the cut pieces?",
+      "timeLimit": "60 sec",
+      "imgURL": "https://images-cdn.kahoot.it/6e473ec6-b05c-4637-a51b-ecbc155ecc69",
+      "answerChoices": [
+        "60 inches",
+        "225 inches",
+        "675 inches",
+        "625 inches"
+      ],
+      "correctChoices": [
+        3
+      ]
+    },
+    {
+      "question": "Multiply.",
+      "timeLimit": "60 sec",
+      "imgURL": "https://images-cdn.kahoot.it/121a1183-333c-4c70-b972-39561b6bd815",
+      "answerChoices": [
+        "1,868",
+        "1,848",
+        "2,454",
+        "18,318"
+      ],
+      "correctChoices": [
+        2
+      ]
+    },
+    {
+      "question": "Joe bought 18 cases of soda. There are 24 cans in a case. How much soda did he buy altogether?",
+      "timeLimit": "60 sec",
+      "imgURL": "https://images-cdn.kahoot.it/4ea98ab1-d1a4-4677-888b-669ef9607254",
+      "answerChoices": [
+        "432 cans",
+        "272 cans",
+        "62 cans",
+        "392 cans"
+      ],
+      "correctChoices": [
+        1
+      ]
+    },
+    {
+      "question": "Suzanne bought 5 t-shirts. Each shirt was $18. How much money did she spend?",
+      "timeLimit": "60 sec",
+      "imgURL": "https://images-cdn.kahoot.it/e616dc9b-8ce3-4b37-9c56-18ebebe1ba66",
+      "answerChoices": [
+        "$200",
+        "$54",
+        "$72",
+        "$90"
+      ],
+      "correctChoices": [
+        4
+      ]
+    },
+    {
+      "question": "Multiply.",
+      "timeLimit": "60 sec",
+      "imgURL": "https://images-cdn.kahoot.it/13cc9b33-0eec-496e-b171-e59de13b2057",
+      "answerChoices": [
+        "9,885",
+        "10,236",
+        "11,133",
+        "11,034"
+      ],
+      "correctChoices": [
+        3
+      ]
+    },
+    {
+      "question": "Tim plays the piano for 45 minutes a day. How many minutes does he play in 6 days?",
+      "timeLimit": "60 sec",
+      "imgURL": "https://images-cdn.kahoot.it/3b314880-ea50-4dbd-9abb-ece715dfbf9b",
+      "answerChoices": [
+        "225 minutes",
+        "270 minutes",
+        "432 minutes",
+        "2,430 minutes"
+      ],
+      "correctChoices": [
+        2
+      ]
+    },
+    {
+      "question": "Multiply.",
+      "timeLimit": "20 sec",
+      "imgURL": "https://images-cdn.kahoot.it/16573e14-f80d-4198-97fb-a74ce3803a91",
+      "answerChoices": [
+        "4,084",
+        "184",
+        "1,518",
+        "2,184"
+      ],
+      "correctChoices": [
+        4
+      ]
+    },
+    {
+      "question": "Multiply.",
+      "timeLimit": "60 sec",
+      "imgURL": "https://images-cdn.kahoot.it/88380ce8-e2be-4d16-8f28-5ffe9ab840db",
+      "answerChoices": [
+        "897",
+        "627",
+        "1,518",
+        "697"
+      ],
+      "correctChoices": [
+        1
+      ]
+    },
+    {
+      "question": "There are 35 chips in each bag. How many chips are in 47 bags altogether?",
+      "timeLimit": "60 sec",
+      "imgURL": "https://images-cdn.kahoot.it/fc8ea17f-f9f6-47e5-9e6d-e116ac1cfc47",
+      "answerChoices": [
+        "1,591 chips",
+        "902 chips",
+        "1,645 chips",
+        "385 chips"
+      ],
+      "correctChoices": [
+        3
+      ]
+    },
+    {
+      "question": "Multiply.",
+      "timeLimit": "60 sec",
+      "imgURL": "https://images-cdn.kahoot.it/c172e8b9-92fa-42a9-b790-f858aab98a2b",
+      "answerChoices": [
+        "28",
+        "196",
+        "494",
+        "70"
+      ],
+      "correctChoices": [
+        2
+      ]
+    },
+    {
+      "question": "A hotel charges $179 per night. How much will it cost to stay there for 9 nights?",
+      "timeLimit": "60 sec",
+      "imgURL": "https://images-cdn.kahoot.it/24f86dbd-62cf-40db-bf35-a7bc38a25042",
+      "answerChoices": [
+        "$1,611",
+        "$9,387",
+        "$1,548",
+        "$1,078"
+      ],
+      "correctChoices": [
+        1
+      ]
+    },
+    {
+      "question": "Multiply.",
+      "timeLimit": "60 sec",
+      "imgURL": "https://images-cdn.kahoot.it/2e91012c-580d-48cb-9e2c-823d482b93d7",
+      "answerChoices": [
+        "2,775",
+        "1,110",
+        "5,712",
+        "2,755"
+      ],
+      "correctChoices": [
+        1
+      ]
+    }
+  ]
+}
